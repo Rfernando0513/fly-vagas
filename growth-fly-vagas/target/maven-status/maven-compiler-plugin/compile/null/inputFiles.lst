@@ -1,0 +1,9 @@
+/home/fernandodev/growth-fly-vagas/growth-fly-vagas/src/main/java/org/acme/Controller/JobController.java
+/home/fernandodev/growth-fly-vagas/growth-fly-vagas/src/main/java/org/acme/Controller/JobTypeController.java
+/home/fernandodev/growth-fly-vagas/growth-fly-vagas/src/main/java/org/acme/DTO/JobDTO.java
+/home/fernandodev/growth-fly-vagas/growth-fly-vagas/src/main/java/org/acme/DTO/JobTypeDTO.java
+/home/fernandodev/growth-fly-vagas/growth-fly-vagas/src/main/java/org/acme/Enum/RegimeEnum.java
+/home/fernandodev/growth-fly-vagas/growth-fly-vagas/src/main/java/org/acme/Model/JobModel.java
+/home/fernandodev/growth-fly-vagas/growth-fly-vagas/src/main/java/org/acme/Model/JobTypeModel.java
+/home/fernandodev/growth-fly-vagas/growth-fly-vagas/src/main/java/org/acme/Service/JobService.java
+/home/fernandodev/growth-fly-vagas/growth-fly-vagas/src/main/java/org/acme/Service/JobTypeService.java

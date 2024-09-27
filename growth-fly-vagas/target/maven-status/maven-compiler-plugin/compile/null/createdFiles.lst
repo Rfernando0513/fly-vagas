@@ -1,0 +1,8 @@
+org/acme/Controller/JobController.class
+org/acme/Model/JobModel.class
+org/acme/Service/JobTypeService.class
+org/acme/Model/JobTypeModel.class
+org/acme/DTO/JobTypeDTO.class
+org/acme/Controller/JobTypeController.class
+org/acme/Enum/RegimeEnum.class
+org/acme/Service/JobService.class
